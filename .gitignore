@@ -1,0 +1,11 @@
+sf2-blog-tutorial-doc-ja/
+tempja/build/
+
+tempja/source/*
+
+!tempja/source/_static
+!tempja/source/_exts
+!tempja/source/_templates
+!tempja/source/_themes
+!tempja/source/conf.py
+
